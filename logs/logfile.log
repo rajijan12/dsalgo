@@ -1,0 +1,39 @@
+2022-08-15 11:46:15 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 11:46:18 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 11:46:18 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 11:46:23 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 11:46:23 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 11:46:23 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 11:46:28 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 11:46:28 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 11:46:28 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 11:46:32 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 11:46:32 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 11:46:33 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 11:46:35 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 11:46:35 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 11:46:35 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 11:46:41 INFO  RegisterPageTestcase:49 - Taking Screenshot
+2022-08-15 11:46:44 INFO  TreeTestcase:33 - Inside Tree Testcase
+2022-08-15 11:46:50 INFO  TreeTestcase:54 - Checking all Tree Links
+2022-08-15 11:46:53 INFO  TreeTestcase:70 - Checking Try Editor operation
+2022-08-15 15:41:28 INFO  BaseClass:38 - Inside Base class performing Setup
+2022-08-15 15:41:29 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 15:41:32 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 15:41:32 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 15:41:37 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 15:41:37 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 15:41:37 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 15:41:42 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 15:41:42 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 15:41:42 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 15:41:47 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 15:41:47 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 15:41:47 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 15:41:49 INFO  RegisterPageTestcase:32 - Launching Url
+2022-08-15 15:41:50 INFO  RegisterPageTestcase:46 - user name provided
+2022-08-15 15:41:50 INFO  RegisterPageTestcase:48 - password provided
+2022-08-15 15:41:55 INFO  RegisterPageTestcase:50 - Taking Screenshot
+2022-08-15 15:41:58 INFO  TreeTestcase:33 - Inside Tree Testcase
+2022-08-15 15:42:05 INFO  TreeTestcase:54 - Checking all Tree Links
+2022-08-15 15:42:08 INFO  TreeTestcase:70 - Checking Try Editor operation
