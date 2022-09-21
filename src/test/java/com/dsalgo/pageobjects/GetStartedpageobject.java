@@ -4,8 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import com.dsalgo.pageobjects.HomePagepageobject;
-import com.dsalgo.pageobjects.HomePagepageobject;
 
 public class GetStartedpageobject {
 	
@@ -20,6 +18,9 @@ public class GetStartedpageobject {
 		PageFactory.initElements(rdriver, this);
 	}	
 	
+	/**
+	 * get started click method
+	 */
 	public void getStartedclick()
 	{
 		getStarted.click();
